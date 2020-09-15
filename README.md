@@ -13,4 +13,4 @@ $ python2 Encrypt-pyc.py
 
 WARNING !!
 
-Hanyan bisa encrypt python2
+Hanya bisa encrypt python2
